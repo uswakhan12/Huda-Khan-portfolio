@@ -5,6 +5,7 @@ const links = [
   { id: 'skills', label: 'Skills' },
   { id: 'awards', label: 'Awards' },
   { id: 'courses', label: 'Courses' },
+  { id: 'publications', label: 'Publications' },
   { id: 'audits', label: 'Clinical Audits' },
   { id: 'presentations', label: 'Presentations' },
   { id: 'teaching', label: 'Teaching' },
