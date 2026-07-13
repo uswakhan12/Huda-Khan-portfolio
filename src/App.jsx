@@ -30,6 +30,7 @@ export default function App() {
         <Awards items={data.awards} />
 
         <Courses items={data.courses} />
+        <Publications items={data.publications} />
         <Audits items={data.clinicalAudits} />
         <Presentations items={data.presentations} />
         <Teaching items={data.teaching} />

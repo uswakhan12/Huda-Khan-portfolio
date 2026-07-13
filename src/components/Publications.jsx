@@ -5,11 +5,22 @@ export default function Publications({ items = [] }) {
   return (
     <section id="publications" className="section">
       <h2>Publications</h2>
-      {items.map((p, i) => (
-        <div className="card" key={i}>
-          <p>{p.citation}</p>
-        </div>
-      ))}
+      <div className="table-wrap">
+        <table className="courses-table">
+          <thead>
+            <tr><th>Title</th><th>Author</th><th>Journal</th></tr>
+          </thead>
+          <tbody>
+            {items.map((p, i) => (
+              <tr key={i}>
+                <td>{p.title}</td>
+                <td>{p.author}</td>
+                <td>{p.journal}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
     </section>
   )
 }

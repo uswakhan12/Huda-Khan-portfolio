@@ -183,8 +183,28 @@ export const data = {
   ],
   publications: [
     {
-      citation:
-        'Khan H, Rauf T, Hally O. Appropriate prescribing of antipsychotics in dementia. BJPsych Open. 2025;11(Suppl 1):S251.'
+      title:
+        'Appropriate Prescribing of Anti-Psychotic Medication for Non-Cognitive Symptoms in People with Dementia',
+      author: 'Khan H, Rauf T, Inam S, Hally O',
+      journal: 'British Journal of Psychiatry Open Supplement'
+    },
+    {
+      title:
+        'Falls Risk Assessment Compliance and Outcomes in Psychiatry of Old Age Inpatient Department',
+      author: 'Khan H, Butler A',
+      journal: 'British Journal of Psychiatry Open Supplement'
+    },
+    {
+      title:
+        'Lithium in Older Adults: A Community Services Audit and Service Development Project Focusing on Blood Monitoring, Clinic Assessments and GP Correspondence',
+      author: 'Khan H, Hally O',
+      journal: 'British Journal of Psychiatry Open Supplement'
+    },
+    {
+      title:
+        'Sodium Monitoring in Older Inpatients on Antidepressant Therapy, a Clinical Audit and Service Development Project',
+      author: 'Khan H, Butler A',
+      journal: 'British Journal of Psychiatry Open Supplement'
     }
   ],
   teaching: [
