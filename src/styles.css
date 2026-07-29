@@ -53,6 +53,10 @@ body::before{content:'';position:fixed;top:0;left:0;right:0;bottom:0;background:
 .small{font-size:13px;color:var(--muted)}
 .timeline .card{position:relative;padding-left:18px}
 .timeline .card:before{content:'';width:4px;height:100%;background:linear-gradient(180deg,var(--accent),var(--accent-2));position:absolute;left:0;top:0;border-radius:6px}
+.credit{margin-top:28px;font-size:12px;color:var(--muted);opacity:0.75}
+.credit a{color:inherit;text-decoration:none;display:inline-flex;align-items:center;gap:4px}
+.credit a:hover{opacity:1;text-decoration:underline}
+.linkedin-icon{width:12px;height:12px;fill:currentColor;opacity:0.85;flex-shrink:0}
 @media(max-width:900px){
   .container{padding:20px}
   .two-col{display:block}
