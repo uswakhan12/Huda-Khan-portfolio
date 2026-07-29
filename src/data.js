@@ -2,7 +2,7 @@ export const data = {
   name: 'Dr. Huda Khan',
   title: 'MBBS — FY BST (Psychiatry Basic Specialty Training)',
   summary:
-    'I am currently a Foundation Year trainee in the Basic Specialist Training (BST) Programme in Psychiatry with the College of Psychiatrists of Ireland, within the Trinity College Dublin deanery. I have a strong interest in academic psychiatry, medical education, clinical research, quality improvement, and service development. I am committed to continuous professional development and the delivery of high-quality, evidence-based psychiatric care.',
+    'I am currently a Foundation Year trainee in the Basic Specialist Training (BST) Programme in Psychiatry with the College of Psychiatrists of Ireland, within the Trinity College Dublin deanery. I have a strong interest in academic psychiatry. I am committed to continuous professional development and the delivery of high-quality, evidence-based psychiatric care.',
   contact: {
     email: 'hudakl@hotmail.com',
     location: 'Ireland'
