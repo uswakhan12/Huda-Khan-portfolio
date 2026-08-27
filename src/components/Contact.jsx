@@ -7,7 +7,7 @@ export default function Contact({ info = {} }) {
       <p><strong>Email:</strong> <a href={`mailto:${info.email}`}>{info.email}</a></p>
       <p><strong>Location:</strong> {info.location}</p>
       <p className="credit">
-        Portfolio website made by{' '}
+        Website made by{' '}
         <a
           href="https://www.linkedin.com/in/uswa-khan-070b85260/"
           target="_blank"

@@ -1,6 +1,6 @@
 export const data = {
   name: 'Dr. Huda Khan',
-  title: 'MBBS — FY BST (Psychiatry Basic Specialty Training)',
+  title: 'MBBS — BST (Psychiatry Basic Specialty Trainee)',
   summary:
     'I am currently a Foundation Year trainee in the Basic Specialist Training (BST) Programme in Psychiatry with the College of Psychiatrists of Ireland, within the Trinity College Dublin deanery. I have a strong interest in academic psychiatry and I am committed to continuous professional development and the delivery of high-quality, evidence-based psychiatric care.',
   contact: {
@@ -11,8 +11,8 @@ export const data = {
     dateOfBirth: '26-02-1997'
   },
   currentPosition: {
-    role: 'FY BST (Psychiatry Basic Specialty Training)',
-    organisation: 'National Forensic Mental Health Services, Ireland'
+    role: 'BST (Psychiatry Basic Specialty Trainee)',
+    organisation: ''
   },
   education: [
     {
@@ -41,7 +41,7 @@ export const data = {
   ],
   experience: [
     {
-      clinicalSite: 'National Forensic Mental Health Services',
+      clinicalSite: '',
       grade: 'Registrar',
       specialty: 'Forensic Psychiatry',
       supervisingConsultant: 'Dr Ronan Mullaney',
