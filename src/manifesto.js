@@ -275,7 +275,7 @@ export const manifesto = {
       text: 'Awarded a scholarship to attend a Forensic Psychiatry Summer Research School in Italy in 2026.',
       subpoints: ['National Forensic Mental Health Services']
     },
-    'Selected for the Basic Specialist Training (BST) Scheme in Psychiatry in 2026, securing my first-preference deanery and selection on the first offer list.'
+    'Selected for the Basic Specialist Training (BST) Scheme in Psychiatry in 2026, securing my first-preference deanery (Trinity College Dublin) and selection on the first offer list.'
   ],
   creativeAchievements: [
     'Won various prizes in art competitions during undergraduate training.',
