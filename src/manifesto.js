@@ -239,6 +239,7 @@ export const manifesto = {
       text: 'Contributed to the organisation of a Memory Technology event for people living with dementia and their carers in Ireland.',
       subpoints: ['North Dublin Mental Health Services, 2025']
     },
+    'Delivered a talk on the fundamentals of Delirium, National Fraility Education Programme, Beaumont Hospital, Dublin - February 2025',
     'Served as Digital Content Lead for Professor Subodh Dave’s Royal College of Psychiatrists Presidential Campaign, remote January - April 2026',
     'Contributed to the organisation of the College of Psychiatrists of Ireland multicultural event in Dublin August 2026.',
     {
@@ -281,5 +282,5 @@ export const manifesto = {
     'Won various prizes in art competitions during undergraduate training.',
     'Had my artwork displayed at the Royal College of Psychiatrists International Congress 2026.'
   ]
-  
+
 }
