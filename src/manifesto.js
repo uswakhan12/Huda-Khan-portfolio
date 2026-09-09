@@ -281,4 +281,5 @@ export const manifesto = {
     'Won various prizes in art competitions during undergraduate training.',
     'Had my artwork displayed at the Royal College of Psychiatrists International Congress 2026.'
   ]
+  
 }
