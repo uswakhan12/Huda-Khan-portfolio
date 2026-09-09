@@ -218,32 +218,63 @@ export const manifesto = {
     'I do not see this simply as a position to hold, but as an opportunity to build, inspire, connect, and create something of lasting value for our professional community. I would be honoured to earn your trust and to demonstrate, through action and meaningful outcomes, that I am the right choice for this role.'
   ],
   undergraduateLeadership: [
-    'Contributed to the organisation of the Postgraduate Medical Institute (PGMI) Convocation, Lahore.',
-    'Served as General Secretary and Vice President of the Arts & Photography Society, under the chairmanship of Professor Moin, currently Vice Chancellor of KEMU.',
-    'Organised and supported multiple inter-collegiate and intra-collegiate arts and photography events in Lahore.',
+    'Contributed to the organisation of the Postgraduate Medical Institute (PGMI) Convocation, Lahore 2015.',
+    'Served as General Secretary, Finance Secretary and Vice President of the Arts & Photography Society of AMC/LGH, under the chairmanship of Professor Moin, currently Vice Chancellor of KEMU (2014-2019).',
+    'Organised and supported multiple inter-collegiate and intra-collegiate arts and photography events in Lahore (2014-2019).',
     'Participated in various scientific and academic conferences in Pakistan.'
   ],
   postgraduateLeadership: [
     'Former Ambassador for Moiz Shaukat Humanities.',
-    'Collaborated with Dr Najeeb Lectures in the development of postgraduate medical NEET-PG multiple-choice questions.',
-    'Organised and delivered a Mental Health Awareness session at a Government TEVTA Institute for Women in Pakistan.',
-    'Contributed to the organisation of a Dementia Carer Education Day in Ireland.',
-    'Contributed to the organisation of a Memory Technology event for people living with dementia and their carers in Ireland.',
-    'Served as Digital Content Lead for Professor Subodh Dave’s Royal College of Psychiatrists Presidential Campaign.',
-    'Contributed to the organisation of the College of Psychiatrists of Ireland multicultural event.',
-    'Founder of an upcoming project in Ireland, with further details to be announced.',
-    'Currently serve as Chair of my Medical College Alumni Ireland Chapter.',
-    'Organised the AMCAA USMLE and Global Career Pathways Webinar.',
-    'Organised a recent Clinical Audit Webinar along with Dr Raja Adnan Ahmed in collaboration with BPPA, APPNE and AMCAA.'
+    'Collaborated with Dr Najeeb Lectures in the development of postgraduate medical NEET-PG multiple-choice questions Offsite - 2022.',
+    'Organised and delivered a Mental Health Awareness session at a Government TEVTA Institute for Women in Bahawalpur, Pakistan - 2023.',
+    {
+      text: 'Contributed to the organisation of a Dementia Carer Education Day in Ireland.',
+      subpoints: ['North Dublin Mental Health Services 2025']
+    },
+    {
+      text: 'Delivered a talk on Delirium at Non-Cognitive Symptoms of Dementia – Education Day, Tayleur House, St Ita’s Campus, Portrane, Co. Dublin, 2025.',
+      subpoints: ['North Dublin Mental Health Services, 2025']
+    },
+    {
+      text: 'Contributed to the organisation of a Memory Technology event for people living with dementia and their carers in Ireland.',
+      subpoints: ['North Dublin Mental Health Services, 2025']
+    },
+    'Served as Digital Content Lead for Professor Subodh Dave’s Royal College of Psychiatrists Presidential Campaign, remote January - April 2026',
+    'Contributed to the organisation of the College of Psychiatrists of Ireland multicultural event in Dublin August 2026.',
+    {
+      text: 'Founder of an upcoming project in Ireland, with further details to be announced.',
+      subpoints: ['Related to psychiatry trainee engagement']
+    },
+    'Currently serve as Chair of my Medical College Alumni Ireland Chapter AMC/LGH, current principal Professor Farooq Afzal, 2025 to present.',
+    'Organised the AMCAA USMLE and Global Career Pathways Webinar AMC/LGH/PINS Lahore, Remote, 2025.',
+    'Organised a recent Clinical Audit Webinar along with Dr Raja Adnan Ahmed in collaboration with BPPA, APPNE and AMCAA in August 2026.'
   ],
   academicAchievements: [
-    'Secured open-merit admission to one of Punjab’s leading government medical colleges.',
+    {
+      text: 'Secured open-merit admission to one of Punjab’s leading government medical colleges',
+      subpoints: ['AMC/Lahore General Hospital, Lahore in November 2014.']
+    },
     'Passed all professional medical examinations on the first attempt and completed internship in 2021.',
-    'Participated in undergraduate academic symposiums and received academic recognition and accolades.',
-    'Received First Prize and an Honourable Mention for clinical audit work at international level in 2025.',
+    {
+      text: 'Participated in undergraduate academic symposiums and received academic recognition and accolades.',
+      subpoints: [
+        '4th Undergraduate & Post Graduate Research Symposium, CMH Lahore Medical College, Punjab, Pakistan, 2016',
+        '15th Biennial Conference of Pakistan Physiology Society, Sahiwal Medical College, 2017'
+      ]
+    },
+    {
+      text: 'Received First Prize and an Honourable Mention for clinical audit work at international level in 2025.',
+      subpoints: [
+        'North Dublin Mental Health Services, Ireland, June 2025',
+        'Joint Winter Conference by RCPsych NI / CPsychI, November 2025'
+      ]
+    },
     'Published multiple first-author abstracts in BJPsych Open international congress supplements.',
     'Delivered multiple oral and poster presentations at academic meetings nationally and internationally.',
-    'Awarded a scholarship to attend a Forensic Psychiatry Summer Research School in Italy in 2026.',
+    {
+      text: 'Awarded a scholarship to attend a Forensic Psychiatry Summer Research School in Italy in 2026.',
+      subpoints: ['National Forensic Mental Health Services']
+    },
     'Selected for the Basic Specialist Training (BST) Scheme in Psychiatry in 2026, securing my first-preference deanery and selection on the first offer list.'
   ],
   creativeAchievements: [

@@ -9,6 +9,8 @@ export default function About() {
     <main>
       <PageHero
         kicker="About Me"
+        image="/huda-portrait.jpg"
+        imageAlt="Dr Huda Khan"
         title={data.name}
         lead="Leadership, service and academic commitment - with a clear ambition to build lasting value for our professional community."
       />
@@ -39,7 +41,20 @@ export default function About() {
                 <h3 className="panel-title about-subpanel">Academic Achievements</h3>
                 <ul className="clean-list">
                   {manifesto.academicAchievements.map((item, i) => (
-                    <li key={i}>{item}</li>
+                    <li key={i}>
+                      {typeof item === 'string' ? (
+                        item
+                      ) : (
+                        <>
+                          {item.text}
+                          <ul className="clean-list nested-list">
+                            {item.subpoints.map((sub, j) => (
+                              <li key={j}>{sub}</li>
+                            ))}
+                          </ul>
+                        </>
+                      )}
+                    </li>
                   ))}
                 </ul>
               </div>
@@ -47,7 +62,20 @@ export default function About() {
                 <h3 className="panel-title">Postgraduate Leadership, Advocacy & Professional Engagement</h3>
                 <ul className="clean-list">
                   {manifesto.postgraduateLeadership.map((item, i) => (
-                    <li key={i}>{item}</li>
+                    <li key={i}>
+                      {typeof item === 'string' ? (
+                        item
+                      ) : (
+                        <>
+                          {item.text}
+                          <ul className="clean-list nested-list">
+                            {item.subpoints.map((sub, j) => (
+                              <li key={j}>{sub}</li>
+                            ))}
+                          </ul>
+                        </>
+                      )}
+                    </li>
                   ))}
                 </ul>
               </div>
