@@ -219,7 +219,7 @@ export const manifesto = {
   ],
   undergraduateLeadership: [
     'Contributed to the organisation of the Postgraduate Medical Institute (PGMI) Convocation, Lahore 2015.',
-    'Served as General Secretary, Finance Secretary and Vice President of the Arts & Photography Society of AMC/LGH, under the chairmanship of Professor Moin, currently Vice Chancellor of KEMU (2014-2019).',
+    'Served as General Secretary, Finance Secretary and Vice President of the Arts & Photography Society of AMC/LGH, under the chairmanship of Professor Moin, now pro Vice Chancellor of KEMU.',
     'Organised and supported multiple inter-collegiate and intra-collegiate arts and photography events in Lahore (2014-2019).',
     'Participated in various scientific and academic conferences in Pakistan.'
   ],
