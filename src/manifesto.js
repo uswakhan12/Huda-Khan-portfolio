@@ -5,7 +5,7 @@ export const manifesto = {
     'I am putting myself forward for the position of Executive Lead, BPPA Irish Chapter, with a vision to develop a vibrant, collaborative, academically active, and culturally connected professional community of Pakistani psychiatrists in Ireland.',
     'I believe BPPA Ireland Chapter can be much more than a professional network. It can be a platform where people connect, ideas become action, knowledge is shared, inclusion and diversity are promoted, young talent is recognised, careers are supported, creativity is encouraged, and our cultural identity is celebrated.',
     'My approach to leadership is collaborative and inclusive. I believe the role of an Executive Lead is not to generate every idea or deliver every objective personally, but to bring the right people together, recognise their strengths, create opportunities, support innovation, and provide the structure needed to turn collective ideas into meaningful outcomes.',
-    'My ambition is to build a BPPA Irish Chapter that provides genuine value to its members, makes a positive contribution to the wider psychiatric community in Ireland, and strengthens our representation and impact nationally and internationally.'
+    'My ambition is to build a BPPA Irish Chapter that provides genuine value to its members, make a positive contribution to the wider psychiatric community in Ireland, and strengthens our representation and impact nationally and internationally.'
   ],
   prioritySummaries: [
     { icon: 'collaboration', title: 'Collaboration: Turning Ideas into Action', short: 'Empower members to propose initiatives and turn ideas into meaningful action.' },
